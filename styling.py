@@ -1,8 +1,8 @@
 # ----------------------------------------------------------------------------
 # PAGE SETTINGS
 # ----------------------------------------------------------------------------
-app_title = 'New Hampshire Dashboard - 2024'
-page_title = 'New Hampshire 2024'
+app_title = 'Ohio Dashboard - 2024'
+page_title = 'Ohio 2024'
 sub_title = 'Filter on'
 filter_category_1 = 'Organization Data'
 filter_category_2 = 'Program Data'
@@ -10,9 +10,9 @@ filter_category_2 = 'Program Data'
 # ----------------------------------------------------------------------------
 # MAP SETTINGS
 # ----------------------------------------------------------------------------
-map_center_lat = 43.9957998
-map_center_lon = -72.8850918
-map_zoom = 5.872
+map_center_lat = 40.3579996
+map_center_lon = -83.9885444
+map_zoom = 5.072
 
 # Column in the dataset that maps to the featureidkey of the geojson.
 # This is what maps the data column to the geojson feature
